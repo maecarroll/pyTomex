@@ -1,6 +1,6 @@
 # pyTomex
 
-**Py**thon scripts for the **T**ypology **o**f **m**orphological **ex**ponence.
+**Py**thon scripts for the **T**ypology **O**f **M**orphological **EX**ponence.
 
 An implementation of 'exponence as informativeness' from Carroll (2021), useful for working out exponence patterns in inflectional paradigms. It also classifies paradigms with respect to the typology of verbose exponence. Plan to expand.
 
