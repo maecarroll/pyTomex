@@ -16,4 +16,4 @@ See pyTomex_ovewview.ipynb for the various functions.
 
 ## References
 
-[Carroll, M.J. 2021. Verbose exponence: integrating the typologies of multiple and distributed exponence](https://doi.org/10.1007/s11525-021-09384-8)
+[Carroll, M.J. 2021. Verbose exponence: integrating the typologies of multiple and distributed exponence. *Morphology*.](https://doi.org/10.1007/s11525-021-09384-8)
